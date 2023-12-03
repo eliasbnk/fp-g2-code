@@ -1,0 +1,14 @@
+,1,2,3, ,5,6,7
+1,seat,seat,seat,walk,seat,seat,seat
+2,seat,seat,seat,walk,seat,seat,seat
+3,seat,seat,seat,walk,seat,seat,seat
+4,seat,seat,seat,walk,seat,seat,seat
+5,seat,seat,seat,walk,seat,seat,seat
+6,seat,seat,seat,walk,seat,seat,seat
+,door,walk,walk,walk,walk,walk,door
+8,seat,seat,seat,walk,seat,seat,seat
+9,seat,seat,seat,walk,seat,seat,seat
+10,seat,seat,seat,walk,seat,seat,seat
+11,seat,seat,seat,walk,seat,seat,seat
+12,seat,seat,seat,walk,seat,seat,seat
+13,seat,seat,seat,walk,seat,seat,seat
