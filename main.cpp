@@ -20,10 +20,14 @@
  *
  * @section usage Usage
  *
- * To use the Ticket Booker Application, visit our online version: [Ticket
- * Booker on Replit](https://replit.com/@eliasbnk/fp-g2s).
- * @warning If you download the source code, ensure that your compiler is using
- * **C++ version 17 or higher**, or the application will not function correctly.
+ * To use the Ticket Booker Application, you have two options:
+ * 1. Online Version: Visit our online version at [Ticket Booker on Replit](https://replit.com/@eliasbnk/fp-g2s).
+ * 2. Download and Run Locally:
+ *    - Download the source code from [GitHub](https://github.com/eliasbnk/fp-g2s/archive/refs/heads/main.zip).
+ *    - Unzip the downloaded file.
+ *    - Ensure your compiler is using **C++ version 17 or higher**.
+ *    - Compile and run the application.
+ * @warning If you download the source code, ensure that your compiler is using **C++ version 17 or higher**, or the application will not function correctly.
  *
  * @section authors Authors
  *
@@ -38,6 +42,7 @@
  *
  * This project is licensed under the GNU Affero General Public License (AGPL).
  * See the LICENSE file for details.
+ *
  */
 
 /**
